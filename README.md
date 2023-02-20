@@ -6,4 +6,4 @@ Bootcamp - Warburg Pincus, com 151 horas de experiência educacionais que abrang
 - 10 desafios de código
 - 1 live
 - 12 Mentorias
-<img src="InsígniaCloudFullStack.png">
+<img src="InsígniaCloudFullStack.png" width="150px">
